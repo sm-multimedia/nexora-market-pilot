@@ -1,0 +1,8 @@
+<svg width="160" height="32" viewBox="0 0 160 32" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">MarketPilot</title>
+  <rect x="0.5" y="0.5" width="31" height="31" rx="8" fill="#1C2B26" stroke="#344A40" />
+  <path d="M7 25V19.5H10.5V25H7ZM14.25 25V14.5H17.75V25H14.25ZM21.5 25V10H25V25H21.5Z" fill="#799087" />
+  <path d="M5.5 17.5L10.5 14.5L14.5 15.8L22 8.5L27 10" stroke="#C7F36B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="27" cy="10" r="2" fill="#77E6C0" />
+  <text x="41" y="22.5" fill="#F4F7F5" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">MarketPilot</text>
+</svg>
